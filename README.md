@@ -1,7 +1,7 @@
 # GitHub for Developers
 
-- Class Date: THIS-DATE
-- Facilitator: @TEACHER-HANDLE
+- Class Date: April 30 - May 1, 2024
+- Facilitator: @Divya Ghai
 
 ## Class Resources
 
